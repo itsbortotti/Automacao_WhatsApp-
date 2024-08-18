@@ -37,7 +37,7 @@ Crie e ative um ambiente virtual para isolar as dependências do projeto:
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # No Windows, use: venv\Scriptsctivate
+source venv/bin/activate  # No Windows, use: venv\Scripts\activate
 ```
 
 ### 3. Instale as dependências do projeto
