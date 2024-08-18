@@ -28,7 +28,7 @@ Clone o repositório do GitHub para sua máquina local:
 
 ```bash
 git clone https://github.com/itsbortotti/WhatsApp_Automation_Script.git
-cd Automacao_WhatsApp-
+cd WhatsApp_Automation_Script
 ```
 
 ### 2. Crie um ambiente virtual
