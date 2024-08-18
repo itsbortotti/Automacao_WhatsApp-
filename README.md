@@ -27,7 +27,7 @@ Siga as etapas abaixo para configurar o ambiente do projeto em uma nova máquina
 Clone o repositório do GitHub para sua máquina local:
 
 ```bash
-git clone https://github.com/itsbortotti/Automacao_WhatsApp-.git
+git clone https://github.com/itsbortotti/WhatsApp_Automation_Script.git
 cd Automacao_WhatsApp-
 ```
 
